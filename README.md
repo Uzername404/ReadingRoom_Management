@@ -30,15 +30,11 @@ The system is built as a single-page application (SPA) using React. It communica
 
 ## Usage
 Once the application is running, users can:
-- View available reading rooms and their current status
-- Reserve a reading room
-- Monitor usage statistics in real-time
+- View available resources such as books, magazines, newspaper and their current status
+- Monitor resources status in real-time
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For support or inquiries, please contact the project maintainer at 22101392@slc-sflu.edu.ph.
